@@ -1,0 +1,13 @@
+{
+	"pluginName": "workTodo",
+	"description": "记录工作时间分配",
+	"main": "index.html",
+	"version": "0.0.1",
+	"features": [
+		{
+		  "code": "workTodo",
+		  "explain": "hello world",
+			"cmds":["work", "工作量", "todo"]
+		}
+	]
+}
